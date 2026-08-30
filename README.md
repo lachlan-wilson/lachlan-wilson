@@ -23,7 +23,7 @@ I'm a Scottish student with a hunger for success. I'm curious, hard working and 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lachlan-wilson&theme=github-dark-blue&hide_border=true" alt="Github Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lachlan-wilson&background=0D1117&ring=c41c3b&fire=c41c3b&currStreakLabel=c9d1d9&currStreakNum=c41c3b&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ff6b35&hide_border=true" alt="Github Stats" />
 
 </td>
 </tr>
@@ -46,4 +46,13 @@ This program was created so that I could better my understanding of machine lear
 This program was designed to easily turn images into SVGs that could then be used to make paper cut posters. It takes an image and converts it into an SVG. It first turns the image into layers of the most common colours, then it cleans these layers, removing small contours (groups of pixels) and bridging slightly larger ones. Using Potrace it then turns each layer into an SVG. The layers are then combined into one SVG.
 
 ## Certifications
+
+<div align="center">
+  
+  [![Artificial Intelligence Fundamentals](https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals-c41c3b?style=for-the-badge)](https://www.credly.com/earner/earned/badge/122e6dd8-ccca-4692-bff6-21b51be6eb2a)
+  [![Python Essentials 2](https://img.shields.io/badge/Cisco-Python%20Essentials%202-c41c3b?style=for-the-badge)](https://www.credly.com/earner/earned/badge/eff667fa-7b53-418f-96bf-6677fc453861)
+  [![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-c41c3b?style=for-the-badge)](https://www.credly.com/earner/earned/badge/86ca6b40-dd33-4f4f-8bfa-482515ae2eb0)
+  [![CyberFirst Advanced Course](https://img.shields.io/badge/CyberFirst-Advanced%20Course-c41c3b?style=for-the-badge)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MSGCBSTIEY.pdf)
+  
+</div>
 
