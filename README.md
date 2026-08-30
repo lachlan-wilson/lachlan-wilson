@@ -21,7 +21,7 @@ I'm a Scottish student with a hunger for success. I'm curious, hard working and 
 
 > Performs **optical character recognition** on the digits 0-9 using a **multi-layer perceptron** neural network.
 
-This program was created so that I could better my understanding of machine learning algorithms. I used [3Blue1Brown's video](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) to learn the theory behind multi-layer perceptrons and then built one from scratch in Python. The program identifies hand drawn digits and has an accompanying diagram to show the Neuron Activations. It achieved an accuracy of 91% of 50,000 digits but I encourage anyone to pull the code and try to improve it.
+This program was created so that I could better my understanding of machine learning algorithms. I used [3Blue1Brown's video](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) to learn the theory behind multi-layer perceptrons and then built one from scratch in Python. The program identifies hand drawn digits and has an accompanying diagram to show the Neuron Activations. It achieved an accuracy of 91% of 50,000 digits but I encourage anyone to fork the code and try to improve it.
 
 ### [Image to SVG Converter](https://github.com/lachlan-wilson/Image-to-SVG-converter)
 `Python` `NumPy` `Pillow` `Scikit-learn` `OpenCV-Python` `Potrace`
